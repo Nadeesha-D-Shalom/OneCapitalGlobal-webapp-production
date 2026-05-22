@@ -150,8 +150,11 @@ npx gh-pages -d dist
 
 © 2026 Nadeesha Shalom. All rights reserved.
 
-This software and its source code are proprietary and confidential.  
-Unauthorized copying, modification, distribution, or use of this software, in whole or in part, is strictly prohibited without prior written permission from the author.
+This repository contains the production deployment version of the system.
+
+The original system architecture, software design, business logic, and implementation were developed by Nadeesha Shalom for HadesReality while working as an Intern Full Stack Developer, as part of professional and academic software engineering work.
+
+Unauthorized redistribution, reproduction, or reuse of the original source architecture, system design, and proprietary implementation logic without permission is prohibited.
 
 For permissions or inquiries:  
 nadeeshashalom1@gmail.com
@@ -161,3 +164,6 @@ nadeeshashalom1@gmail.com
 ## Author
 
 **Nadeesha Shalom**
+Intern Full Stack Developer at HadesReality
+
+
